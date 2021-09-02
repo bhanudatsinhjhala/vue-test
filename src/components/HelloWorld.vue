@@ -1,9 +1,5 @@
 <template>
-<<<<<<< HEAD
-  <h1> Hello main</h1>
-=======
   <h1> Hello BugFix by Abhi Patel </h1>
->>>>>>> 5008dce5f9b043ab5078335ec502b4b5e283acd0
 </template>
 
 <script>
