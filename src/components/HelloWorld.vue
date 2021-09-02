@@ -5,7 +5,7 @@
 <script>
 export default {
   name: 'HelloWorld',
-  props: {
+  props: {git
     msg: String
   }
 }
