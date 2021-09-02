@@ -1,5 +1,5 @@
 <template>
-  <h1> Hello bugFix</h1>
+  <h1> Hello Bhanudat</h1>
 </template>
 
 <script>
